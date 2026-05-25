@@ -6,7 +6,7 @@ A **Finite State Machine** simulation of a traffic light system, implemented in 
 
 ## FSM Diagram
 
-![Traffic Light FSM Diagram](docs/Traffic Light FSM Diagram.png)
+![Traffic Light FSM Diagram](docs/Traffic_Light_FSM_Diagram.png)
 
 ---
 
