@@ -1,0 +1,10 @@
+CXX = g++
+CXXFLAGS = -Wall -Wextra -std=c++17
+
+all: traffic_light
+
+traffic_light: src/main.cpp src/TrafficLight.cpp
+	$(CXX) $(CXXFLAGS) -o traffic_light src/main.cpp src/TrafficLight.cpp
+
+clean:
+	rm -f traffic_light
