@@ -122,7 +122,7 @@ The FSM is also implemented at the gate level using:
 - **D flip-flops** for state storage
 - Combinational logic for state transitions and emergency override
 
-See the [logic gate schematic](docs/Traffic_Light_FSM_logic_gates.pdf) for the full hardware implementation.
+See the [logic gate schematic](docs/Traffic_Light_FSM_logic_gate.pdf) for the full hardware implementation.
 
 ---
 
