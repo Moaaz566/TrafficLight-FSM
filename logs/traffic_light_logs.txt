@@ -1,0 +1,25 @@
+[0s] Transition: GREEN -> YELLOW
+[0s] Manual state transition
+[10s] Transition: YELLOW -> RED
+[10s] Skip 10s -> RED - Stop! (25s left)
+[10s] Emergency: RED - Stop! -> RED
+[10s] Transition: RED -> GREEN
+[10s] Manual state transition
+[11s] Tick -> GREEN - Go! (29s left)
+[21s] Skip 10s -> GREEN - Go! (19s left)
+[22s] Tick -> GREEN - Go! (18s left)
+[23s] Tick -> GREEN - Go! (17s left)
+[24s] Tick -> GREEN - Go! (16s left)
+[25s] Tick -> GREEN - Go! (15s left)
+[26s] Tick -> GREEN - Go! (14s left)
+[36s] Skip 10s -> GREEN - Go! (4s left)
+[46s] Transition: GREEN -> YELLOW
+[46s] Transition: YELLOW -> RED
+[46s] Skip 10s -> RED - Stop! (29s left)
+[46s] Emergency: RED - Stop! -> RED
+[46s] Transition: RED -> GREEN
+[46s] Manual state transition
+[46s] Transition: GREEN -> YELLOW
+[46s] Manual state transition
+[47s] Tick -> YELLOW - Slow down! (4s left)
+[47s] Emergency: YELLOW - Slow down! -> RED
